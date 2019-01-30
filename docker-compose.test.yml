@@ -1,0 +1,6 @@
+version: '3.3'
+
+services:
+  sut:
+    build: .
+    command: aws --version && ecs-deploy help || if [ $$? -eq 3 ]; then exit 0; else exit 1; fi
