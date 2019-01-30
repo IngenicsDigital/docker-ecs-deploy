@@ -1,4 +1,8 @@
-# Docker AWS Deploy Image
+# Docker AWS ecs-deploy Image
+
+[![](https://img.shields.io/microbadger/layers/pixelgmbh/docker-ecs-deploy.svg)](https://microbadger.com/images/pixelgmbh/docker-ecs-deploy)
+[![](https://img.shields.io/microbadger/image-size/pixelgmbh/docker-ecs-deploy.svg)](https://microbadger.com/images/pixelgmbh/docker-ecs-deploy)
+[![](https://img.shields.io/docker/pulls/pixelgmbh/docker-ecs-deploy.svg)](https://hub.docker.com/r/pixelgmbh/docker-ecs-deploy)
 
 This docker container provides you with the nessecary tools to use the [ecs-deploy script](https://github.com/silinternational/ecs-deploy) for Amazon ECS _including the docker environment_.
 
