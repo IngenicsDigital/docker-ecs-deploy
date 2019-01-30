@@ -3,6 +3,7 @@
 [![](https://img.shields.io/microbadger/layers/pixelgmbh/docker-ecs-deploy.svg)](https://microbadger.com/images/pixelgmbh/docker-ecs-deploy)
 [![](https://img.shields.io/microbadger/image-size/pixelgmbh/docker-ecs-deploy.svg)](https://microbadger.com/images/pixelgmbh/docker-ecs-deploy)
 [![](https://img.shields.io/docker/pulls/pixelgmbh/docker-ecs-deploy.svg)](https://hub.docker.com/r/pixelgmbh/docker-ecs-deploy)
+[![](https://img.shields.io/github/license/PixelGmbH/docker-ecs-deploy.svg?maxAge=3600)](https://github.com/PixelGmbH/docker-ecs-deploy/blob/master/LICENCE)
 
 This docker container provides you with the nessecary tools to use the [ecs-deploy script](https://github.com/silinternational/ecs-deploy) for Amazon ECS _including the docker environment_.
 
