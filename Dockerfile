@@ -1,4 +1,4 @@
-FROM docker:latest
+FROM docker:stable
 MAINTAINER Poeschl@users.noreply.github.com
 
 ENV ECS_DEPLOY_VERSION '3.6.0'
